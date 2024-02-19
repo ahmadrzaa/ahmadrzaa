@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">A passionate Software Engineer from India but lives in Bahrain</h3>
+<h3 align="center">A passionate Software Engineer from India based in Bahrain</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadrzaa&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadrzaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadrzaa&base=12122&abbreviated=true&style=flat-square"/> </p>
 
-- 🔭 I’m currently working on [Bahrain.bh / Dana.bh](https://services.bahrain.bh/wps/portal/en/BSP/HomeeServicesPortal/!ut/p/z1/jY_NDoIwEISfhiu7RqnVG5rgT4gHDQF7McWUgimUlAqvL1EvJtq4t9l8M5MBBhmwhveV5LbSDVejPjNymewC3NI14iJJIiR0E81mhB7nMYH0CeCPCxHYP34HwNzxKTBXxeoQvAFHxh6YVDp_zQ2bfEolMCMKYYTx72Z8l9a23dJDD4dh8KXWUgn_qmsPv1lK3VnIPkk4cQNtnWR4C1QfF-EDlTF7yg!!/dz/d5/L0lHSkpZQSEhL3dMTUFOa0FFa0EhIS80TlZFL2Vu/)
+- 🔭 I’m currently working on [AI-Chatbot ( Bahrain.bh & Dana.bh )](https://services.bahrain.bh/wps/portal/en/BSP/HomeeServicesPortal/!ut/p/z1/jY_NDoIwEISfhiu7RqnVG5rgT4gHDQF7McWUgimUlAqvL1EvJtq4t9l8M5MBBhmwhveV5LbSDVejPjNymewC3NI14iJJIiR0E81mhB7nMYH0CeCPCxHYP34HwNzxKTBXxeoQvAFHxh6YVDp_zQ2bfEolMCMKYYTx72Z8l9a23dJDD4dh8KXWUgn_qmsPv1lK3VnIPkk4cQNtnWR4C1QfF-EDlTF7yg!!/dz/d5/L0lHSkpZQSEhL3dMTUFOa0FFa0EhIS80TlZFL2Vu/)
 
 - 💬 Ask me about **react, git, NodeJS, JS**
 
