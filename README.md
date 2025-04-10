@@ -1,32 +1,95 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">A passionate Software Engineer from India based in Bahrain</h3>
+<h3 align="center">Software Engineer | Frontend Specialist | AI Chatbot Developer</h3>
+
+<p align="center">
+🇮🇳 Indian &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Based in Bahrain &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Working at <b>INTERMID.NET Company</b>  
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=ahmadrzaa&label=Profile%20views&color=0e75b6&style=flat-square" alt="GitHub Profile Views" />
+<br>
+<b>📊 Total Profile Views: <span style="color:#0e75b6;">13,000+ (and growing!)</span></b>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadrzaa&base=12122&abbreviated=true&style=flat-square"/> </p>
+---
 
-- 🔭 I’m currently working on [AI-Chatbot ( Bahrain.bh & Dana.bh )](https://services.bahrain.bh/wps/portal/en/BSP/HomeeServicesPortal/!ut/p/z1/jY_NDoIwEISfhiu7RqnVG5rgT4gHDQF7McWUgimUlAqvL1EvJtq4t9l8M5MBBhmwhveV5LbSDVejPjNymewC3NI14iJJIiR0E81mhB7nMYH0CeCPCxHYP34HwNzxKTBXxeoQvAFHxh6YVDp_zQ2bfEolMCMKYYTx72Z8l9a23dJDD4dh8KXWUgn_qmsPv1lK3VnIPkk4cQNtnWR4C1QfF-EDlTF7yg!!/dz/d5/L0lHSkpZQSEhL3dMTUFOa0FFa0EhIS80TlZFL2Vu/)
+### 🧑‍💻 About Me
 
-- 💬 Ask me about **react, git, NodeJS, JS**
+- 🤖 Building AI Chatbots for [**Bahrain.bh**](https://services.bahrain.bh) & [**Dana.bh**](https://services.bahrain.bh/wps/portal/en/BSP/HomeeServicesPortal/)
+- 💼 Working at <b>INTERMID.NET</b>, Bahrain 🇧🇭
+- 🛠 Customized ERP systems: <b>Odoo, Dolibarr, Horilla</b>
+- 🌐 Built full-stack websites with chatbot integration for many clients
+- 🎯 Specialized in <b>Frontend Development</b> & <b>AI Chatbot Engineering</b>
+- 🎓 <b>MCA (Master of Computer Applications)</b>  
+  🏫 <b>Reva University, Bangalore</b> – 2019 | 📈 CGPA: <b>7.0</b>
+- 🌍 Indian Citizen | Living & working in 🇧🇭 Bahrain
 
-- 📫 How to reach me **ahmadrza.1110@gmail.com**
+---
 
-- ⚡Fun fact **I am funny😅**
+### 🚀 Projects (Live & Deployed)
 
-<h3 align="left">Connect with me:</h3>
+- 🤖 [AI Chatbot: Bahrain.bh](https://services.bahrain.bh)
+- 🤖 [Dana.bh Chatbot](https://services.bahrain.bh/wps/portal/en/BSP/HomeeServicesPortal/)
+- 🛠 ERP Customizations: <b>Odoo, Dolibarr, Horilla</b>
+- 💻 Client Websites: Full Frontend + AI Chatbot support
+
+---
+
+### 💬 Tech Stack
+
+**Frontend:** React.js, JavaScript, HTML5, CSS3, Bootstrap, Angular  
+**Backend:** Node.js, Express  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, Figma, Postman  
+**ERP Systems:** Odoo, Dolibarr, Horilla  
+**AI Chatbots:** OLMA, DeepSeek, Rasa, Dialogflow
+
+---
+
+### 📫 Contact Me
+
+- 📧 [ahmadrza.1110@gmail.com](mailto:ahmadrza.1110@gmail.com)  
+- 📸 [@ahmd.rs_ (Instagram)](https://instagram.com/ahmd.rs_)  
+- 📹 [Arcodr (YouTube)](https://www.youtube.com/c/arcodr)
+
+---
+
+### 🧰 Tools & Languages
+
 <p align="left">
-<a href="https://instagram.com/ahmd.rs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmd.rs_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arcodr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arcodr" height="30" width="40" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ahmadrza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmadrza" /></a></p><br><br>
+### ☕ Support My Work
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadrzaa&show_icons=true&locale=en&layout=compact" alt="ahmadrzaa" /></p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ahmadrza" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadrzaa&show_icons=true&locale=en" alt="ahmadrzaa" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrzaa&" alt="ahmadrzaa" /></p>
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadrzaa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadrzaa&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrzaa" alt="GitHub Streak" />
+</p>
