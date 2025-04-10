@@ -1,80 +1,62 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">Software Engineer | Frontend Specialist | AI Chatbot Developer</h3>
+<h3 align="center">Software Engineer | Frontend Developer | AI Chatbot Engineer</h3>
 
 <p align="center">
-🇮🇳 Indian &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Based in Bahrain &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Working at <b>INTERMID.NET Company</b>  
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=ahmadrzaa&label=Profile%20views&color=0e75b6&style=flat-square" alt="GitHub Profile Views" />
-<br>
-<b>📊 Total Profile Views: <span style="color:#0e75b6;">13,000+ (and growing!)</span></b>
+ <img src="https://komarev.com/ghpvc/?username=ahmadrzaa&base=12122&abbreviated=true&style=flat-square"/>
 </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+### 👨‍💻 About Me
+
+- 💼 Working at **INTERMID.NET**
+- 🤖 Developed AI Chatbots for:  
+  👉 [Bahrain.bh](https://services.bahrain.bh)   👉 [Dana.bh](https://services.bahrain.bh/wps/portal/en/BSP/HomeeServicesPortal/)
+- 💻 Built full-stack **client websites** with React + Node + MongoDB + chatbot integration
+- 🛠 Customized **ERP systems**: Odoo, Dolibarr, Horilla
+- 🎯 Specialized in **Frontend Development** & **AI Chatbot Integration**
+- 🎓 **Master Dgree in MCA (Master of Computer Applications)**  
+  🏫 **Reva University, Bangalore** – 2019   📊 **CGPA: 7.0**
+- 🌏 Indian citizen | Based in 🇧🇭 Bahrain
+
 ---
-
-### 🧑‍💻 About Me
-
-- 🤖 Building AI Chatbots for [**Bahrain.bh**](https://services.bahrain.bh) & [**Dana.bh**](https://services.bahrain.bh/wps/portal/en/BSP/HomeeServicesPortal/)
-- 💼 Working at <b>INTERMID.NET</b>, Bahrain 🇧🇭
-- 🛠 Customized ERP systems: <b>Odoo, Dolibarr, Horilla</b>
-- 🌐 Built full-stack websites with chatbot integration for many clients
-- 🎯 Specialized in <b>Frontend Development</b> & <b>AI Chatbot Engineering</b>
-- 🎓 <b>MCA (Master of Computer Applications)</b>  
-  🏫 <b>Reva University, Bangalore</b> – 2019 | 📈 CGPA: <b>7.0</b>
-- 🌍 Indian Citizen | Living & working in 🇧🇭 Bahrain
-
----
-
 ### 🚀 Projects (Live & Deployed)
 
-- 🤖 [AI Chatbot: Bahrain.bh](https://services.bahrain.bh)
-- 🤖 [Dana.bh Chatbot](https://services.bahrain.bh/wps/portal/en/BSP/HomeeServicesPortal/)
-- 🛠 ERP Customizations: <b>Odoo, Dolibarr, Horilla</b>
-- 💻 Client Websites: Full Frontend + AI Chatbot support
+| 🧠 Project | Description |
+|-----------|-------------|
+| 🤖 [Bahrain.bh Chatbot](https://services.bahrain.bh) | Government chatbot for citizen services |
+| 🤖 [Dana.bh Chatbot](https://services.bahrain.bh/wps/portal/en/BSP/HomeeServicesPortal/) | Arabic + English chatbot |
+| 🛠 ERP Deployments | Odoo, Dolibarr, Horilla – Customized for clients |
+| 💻 Client Websites | React + Node full-stack + integrated with AI bots |
+| 🗺️ EVGo App | EV station locator using TomTom Maps |
+| 🏨 Hotel Booking | Simple frontend booking system |
+| 🔉 Speech to Text Tool | Convert voice to live text using JavaScript |
 
 ---
 
-### 💬 Tech Stack
+### 🧰 Tech Stack
 
-**Frontend:** React.js, JavaScript, HTML5, CSS3, Bootstrap, Angular  
-**Backend:** Node.js, Express  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, Figma, Postman  
-**ERP Systems:** Odoo, Dolibarr, Horilla  
-**AI Chatbots:** OLMA, DeepSeek, Rasa, Dialogflow
+| Skill Category | Technologies & Icons |
+|----------------|-----------------------|
+| **Frontend** | React, JavaScript, HTML5, CSS3, Bootstrap <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="25"/> |
+| **Backend** | Node.js, Express, PHP, Django <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="25"/> |
+| **Databases** | MongoDB, MySQL, SQLite <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="25"/> |
+| **ERP Platforms** | Odoo, Dolibarr, Horilla |
+| **AI & Chatbots** | ChatGPT, OLMA, Rasa, Dialogflow, DeepSeek, Senroflow <br> <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="25" title="ChatGPT"/> <img src="https://cdn-icons-png.flaticon.com/512/4712/4712103.png" width="25" title="AI/NLP"/> |
+| **Tools** | Git, Postman, Figma <br> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> <img src="https://img.icons8.com/color/48/000000/api.png" width="25"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="25"/> |
 
----
 
 ### 📫 Contact Me
 
-- 📧 [ahmadrza.1110@gmail.com](mailto:ahmadrza.1110@gmail.com)  
-- 📸 [@ahmd.rs_ (Instagram)](https://instagram.com/ahmd.rs_)  
-- 📹 [Arcodr (YouTube)](https://www.youtube.com/c/arcodr)
-
----
-
-### 🧰 Tools & Languages
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-</p>
-
----
-
-### ☕ Support My Work
-
 <p align="center">
-  <a href="https://www.buymeacoffee.com/ahmadrza" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  <a href="mailto:ahmadrza.1110@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ahmd.rs_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/arcodr" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -82,14 +64,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadrzaa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadrzaa&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrzaa" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadrzaa&show_icons=true&theme=default" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrzaa&layout=compact" height="140" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrzaa" height="140" />
 </p>
