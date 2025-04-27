@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">Software Engineer | Frontend Developer | AI Chatbot Engineer</h3>
 
+[![Committers Top Badge](https://user-badge.committers.top/bahrain/ahmadrzaa.svg)](https://committers.top/bahrain/ahmadrzaa)
+
+<h3 align="center">Software Engineer | Frontend Developer | AI Chatbot Engineer</h3>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=ahmadrzaa&base=12122&abbreviated=true&style=flat-square"/>
 </p>
